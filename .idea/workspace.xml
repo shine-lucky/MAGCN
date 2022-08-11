@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8e3321c-587e-4716-bc9f-fe836f2a456a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2D6vncmXTyUlxL1OZhUoyIlL1Wf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\daima\LMD\git\MAGCN\code" />
+      <recent name="D:\study\daima\LMD\git\MAGCN" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e3321c-587e-4716-bc9f-fe836f2a456a" name="Default Changelist" comment="" />
+      <created>1660032516230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660032516230</updated>
+      <workItem from="1660032517376" duration="596000" />
+      <workItem from="1660182759570" duration="1903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="265" key="FileChooserDialogImpl" timestamp="1660185540831">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="265" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1660185540831" />
+    <state x="727" y="407" key="Github.ShareDialog" timestamp="1660032839403">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="727" y="407" key="Github.ShareDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1660032839403" />
+    <state x="683" y="212" key="Github.UntrackedFilesDialog" timestamp="1660032707038">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="683" y="212" key="Github.UntrackedFilesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1660032707038" />
+  </component>
+</project>
